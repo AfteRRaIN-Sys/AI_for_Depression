@@ -56,5 +56,5 @@ local.properties
 .worksheet
 
 # Voice Pack
-.10sec_all_test/
-.10sec_all_trainvalid/
+10sec_all_test/
+10sec_all_trainvalid/
